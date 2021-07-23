@@ -2,6 +2,12 @@
 <h3><strong><br />TV Backgrounds for Mega Bezel Shader on Retroarch<br />---------------------------------------------------------------------</strong></h3>
 <p><strong><br />WHAT IS?<br /></strong>These are backgrounds to be used with Retroarch. They look like conventional screen overlay, but will be loaded automatically along with Mega Bezel shaders.<br /><br /><strong>WHAT FOR?<br /></strong>These backgrounds were created to be used exclusively with the MegaBezel shaders authored by HyperSpaceMadness. They will not work like regular Retroarch overlay as they do not have a transparent area for tube image. <br />Without Mega Bezel Shaders they will not work as expected.<br /><br /><br /><strong>W</strong><strong>HY?<br /></strong>I wanted backgrounds that could be used with Retroarch while playing near big screens. So I was inspired by another authors works and I started working on my own backgrounds.<br /><br />These backgrounds feature simple TV images created in Photoshop. <br />They intend to use less space for the image tube, bringing more comfort for who play close to the big screens.<br /><br />I don't have great skills with graphical tools so you can find several points to improve in my work. I tried to differentiate the colors and shapes so they wouldn't be so repetitive. I hope it's useful to you.<br /><br />-------------------<br /><br /></p>
 
+SOME SCREENSHOTS:
+
+![](/Screenshots/FDS_Akumajou_Dracula.png?raw=true)
+![](/Screenshots/SNES_Super_MarioWorld.png?raw=true)
+![](/Screenshots/SegaGenesis_Castlevania.png?raw=true)
+
 <p><strong>WHAT ARE MEGA BEZEL SHADERS?</strong><br />They are shaders with great customization possibilities, besides having their glorious real time reflections light.<br />They were developed by HyperSpaceMadness, with feedback from people who like old games.</p>
 <p>By using these backgrounds and their presets, you will automatically enjoy the beautiful reflections.</p>
 <p>To learn more about Mega Bezel Shader, please visit HSM's Forum Libretro page:<br />https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1 .<br /><br /></p>
