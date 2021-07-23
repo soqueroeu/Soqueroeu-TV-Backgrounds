@@ -8,10 +8,10 @@ SOME SCREENSHOTS:
 ![](/Screenshots/SNES_Super_MarioWorld.png?raw=true)
 ![](/Screenshots/SegaGenesis_Castlevania.png?raw=true)
 
-<p><strong>WHAT ARE MEGA BEZEL SHADERS?</strong><br />They are shaders with great customization possibilities, besides having their glorious real time reflections light.<br />They were developed by HyperSpaceMadness, with feedback from people who like old games.</p>
+<p><strong>WHAT ARE MEGA BEZEL SHADERS?</strong><br />They are shaders with great customization possibilities, besides having their glorious real time reflections lights.<br />They were developed by HyperSpaceMadness, with feedback from people who like old games.</p>
 <p>By using these backgrounds and their presets, you will automatically enjoy the beautiful reflections.</p>
 <p>To learn more about Mega Bezel Shader, please visit HSM's Forum Libretro page:<br />https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1 .<br /><br /></p>
-<p><strong>HOW TO USE THESE BACKGROUNDS?</strong><br />This guide assumes that you already use Mega Bezel shaders. If you haven't used these special shaders yet, look for additional information further down in this document for first-time instructions.</p>
+<p><strong>HOW TO USE THESE BACKGROUNDS?</strong><br />This guide assumes that you already use Mega Bezel shaders. If you haven't used these special shaders yet, look for additional information further down in this document for first-time instructions. These backgrouns are in 16:9 @ 3840x2160 format. Presets will always use the Standard version of Mega Bezel. Please note, there are no presets with Advanced parameter options in this package. </p>
 <p>1 &ndash; Inside the downloaded .zip you will see a folder called Soqueroeu. Unzip this folder to:<br /><em>Retroarch / shaders /</em></p>
 <p>2 - With a game running, load a shader preset. Find presets at:<br /><em>Retroarch/shaders/Soqueroeu/presets/TV-Consol</em>e<br /><br /></p>
 <p><strong>BEGINNING USERS</strong><br />If this is your first use of Mega Bezel shaders, here are the complete instructions:</p>
