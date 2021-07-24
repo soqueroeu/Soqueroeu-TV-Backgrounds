@@ -30,7 +30,7 @@ SOME SCREENSHOTS:
 <p><strong>4</strong> - If you have previous versions of Mega Bezel installed, you need to delete the old shader pack. Do not overwrite files as this can cause crashes.<br /><br /></p>
 <p><strong>5</strong> - After downloading Mega Bezel pack, see inside the .zip there is a folder called bezel. Copy this folder into the following directory:<br /><br /><em>Retroarch/shaders/shaders_slang.</em><br /><br /></p>
 <p><strong>6</strong> &ndash; After downloading the TV Backgrounds pack, inside the .zip you will see a folder called Soqueroeu. Unzip this folder to:<br /><em>Retroarch/shaders/ <br /><br /></em></p>
-<p><strong>7</strong>- Open Retroarch and go to the driver options (Settings&gt;Driver&gt;Video). Set the video driver to Vulcan. It also works with GLCore, but seems to be faster with Vulcan.<br /><br /></p>
+<p><strong>7</strong>- Open Retroarch and go to the driver options (Settings&gt;Driver&gt;Video). Set the video driver to Vulkan. It also works with GLCore, but seems to be faster with Vulkan.<br /><br /></p>
 <p><strong>8</strong> - Still in Retroach, go to <em>Settings&gt;Video&gt;Scale.<br /></em><br />Set integer value scale to OFF<br /><br />Set the screen aspect ratio to that of your monitor, for example 16: 9.<br /><br /></p>
 <p><strong>9</strong> - With a game running, load a shader preset. Find presets at:<p><em>Retroarch/shaders/Soqueroeu/presets/TV-Consol</em>e</p>
 <p>or</p>
