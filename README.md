@@ -11,6 +11,7 @@ SOME SCREENSHOTS:
 <p><strong>WHAT ARE MEGA BEZEL SHADERS?</strong><br />They are shaders with great customization possibilities, besides having their glorious real time reflections lights.<br />They were developed by HyperSpaceMadness, with feedback from people who like old games.</p>
 <p>By using these backgrounds and their presets, you will automatically enjoy the beautiful reflections. <span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pt" data-phrase-index="0">I also created night presets, so you can play with the lights off.</span></span>&nbsp;</p>
 <p>To learn more about Mega Bezel Shader, please visit HSM's Forum Libretro page:<br /><a href="https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1" rel="nofollow">https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1</a> .</p
+
   ---------------
 <p><strong>HOW TO USE THESE BACKGROUNDS?</strong><br />This guide assumes that you already use Mega Bezel shaders. If you haven't used these special shaders yet, look for additional information further down in this document for first-time instructions. These backgrouns are in 16:9 @ 3840x2160 format. Presets will always use the Standard version of Mega Bezel. Please note, there are no presets with Advanced parameter in this package.</p>
 <p>&nbsp;</p>
