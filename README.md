@@ -23,7 +23,7 @@ SOME SCREENSHOTS:
 -----------------
 <p><strong>BEGINNING USERS</strong><br />If this is your first use of Mega Bezel shaders, here are the complete instructions:</p>
 <p><strong>1</strong> - You must have Retroarch 1.9.1 or later (you will not be able to load in previous versions).<br /><br /></p>
-<p><strong>2</strong> - You need to have Slang shaders previously installed in your Retroarch. Download them from Retroarch's upgrade menu.</p>
+<p><strong>2</strong> - You need to have Slang shaders previously installed in your Retroarch. Download them from Retroarch's update menu.</p>
 <p><strong>NOTE:</strong> You will only be able to see the Slang shaders in the Retroarch download list if you have video drivers set to Vulkan. It may be necessary to save the changes and restart your Retroarch for the video driver settings to be saved.<br /><br /></p>
 <p><strong>3</strong> - You will need Shader Mega Bezel pack. Find the links on the author's page at Libretro forum:<br /><a href="https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1">https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1</a></p>
 <p>If you prefer, you can follow this direct download link:<br /><a href="https://1drv.ms/u/s!AlJgyN_LYasyoIxcS8s6B2gH947dQg?e=1M2dzs">https://1drv.ms/u/s!AlJgyN_LYasyoIxcS8s6B2gH947dQg?e=1M2dzs</a> <br /><br /></p>
