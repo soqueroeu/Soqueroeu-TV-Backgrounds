@@ -16,7 +16,7 @@ SOME SCREENSHOTS:
 <p><strong>HOW TO USE THESE BACKGROUNDS?</strong><br />This guide assumes that you already use Mega Bezel shaders. If you haven't used these special shaders yet, look for additional information further down in this document for first-time instructions. These backgrouns are in 16:9 @ 3840x2160 format. Presets will always use the Standard version of Mega Bezel. Please note, there are no presets with Advanced parameter in this package.</p>
 <p>&nbsp;</p>
 <p>1 &ndash; Inside the downloaded .zip you will see a folder called Soqueroeu. Unzip this folder to:<br /><em>Retroarch / shaders /</em></p>
-<p>2 - With a game running, load a shader preset. Find presets at:<br /><em>Retroarch/shaders/Soqueroeu/presets/TV-Consol</em>e</p>
+<p>2 - When a game is running, load a shader preset. Find presets at:<br /><em>Retroarch/shaders/Soqueroeu/presets/TV-Consol</em>e</p>
 <p>or</p>
 <p><em>Retroarch/shaders/Soqueroeu/presets/TV-Consol</em>e<em>-Night</em></p>
 <p>&nbsp;</p>
@@ -25,19 +25,19 @@ SOME SCREENSHOTS:
 <p><strong>1</strong> - You must have Retroarch 1.9.1 or later (you will not be able to load in previous versions).<br /><br /></p>
 <p><strong>2</strong> - You need to have Slang shaders previously installed in your Retroarch. Download them from Retroarch's upgrade menu.</p>
 <p><strong>NOTE:</strong> You will only be able to see the Slang shaders in the Retroarch download list if you have video drivers set to Vulkan. It may be necessary to save the changes and restart your Retroarch for the video driver settings to be saved.<br /><br /></p>
-<p><strong>3</strong> - You will need to have the pack with Shader Mega Bezel. Find the links on the author's page on the Libretro forum:<br /><a href="https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1">https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1</a></p>
+<p><strong>3</strong> - You will need Shader Mega Bezel pack. Find the links on the author's page at Libretro forum:<br /><a href="https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1">https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1</a></p>
 <p>If you prefer, you can follow this direct download link:<br /><a href="https://1drv.ms/u/s!AlJgyN_LYasyoIxcS8s6B2gH947dQg?e=1M2dzs">https://1drv.ms/u/s!AlJgyN_LYasyoIxcS8s6B2gH947dQg?e=1M2dzs</a> <br /><br /></p>
 <p><strong>4</strong> - If you have previous versions of Mega Bezel installed, you need to delete the old shader pack. Do not overwrite files as this can cause crashes.<br /><br /></p>
 <p><strong>5</strong> - After downloading Mega Bezel pack, see inside the .zip there is a folder called bezel. Copy this folder into the following directory:<br /><br /><em>Retroarch/shaders/shaders_slang.</em><br /><br /></p>
 <p><strong>6</strong> &ndash; After downloading the TV Backgrounds pack, inside the .zip you will see a folder called Soqueroeu. Unzip this folder to:<br /><em>Retroarch/shaders/ <br /><br /></em></p>
-<p><strong>7</strong>- Open Retroarch and go to the driver options (Settings&gt;Driver&gt;Video). Set the video driver to Vulkan. It also works with GLCore, but seems to be faster with Vulkan.<br /><br /></p>
+<p><strong>7</strong>- Open Retroarch and go to driver options (Settings&gt;Driver&gt;Video). Set the video driver to Vulkan. It also works with GLCore, but seems to be faster with Vulkan.<br /><br /></p>
 <p><strong>8</strong> - Still in Retroach, go to <em>Settings&gt;Video&gt;Scale.<br /></em><br />Set integer value scale to OFF<br /><br />Set the screen aspect ratio to that of your monitor, for example 16: 9.<br /><br /></p>
 <p><strong>9</strong> - With a game running, load a shader preset. Find presets at:<p><em>Retroarch/shaders/Soqueroeu/presets/TV-Consol</em>e</p>
 <p>or</p>
 <p><em>Retroarch/shaders/Soqueroeu/presets/TV-Consol</em>e<em>-Night</em></p>
 <p><strong>Note:</strong> A shader preset can take between 5 and 10 seconds to load. Wait and trust!</p>
 
-<p><strong>11</strong> &ndash; If you want to change other shader parameters, you should know that MegaBezel offers several customization options. Once you have desired result, you can save preset to the Core (active core), content directory or whole system.<br />I recommend that you save by applying to the platform/console folder contents, as each system operates with different display resolutions and a customization may present unwanted results for some other core .<br /><br /></p>
+<p><strong>11</strong> &ndash; If you want to change other shader parameters, you should know that MegaBezel offers several customization options. Once you have desired result, you can save preset to the Core (active core), content directory or whole system.<br />I recommend you save by applying to the platform/console folder contents, as each system operates with different display resolutions and a customization may present unwanted results for some other core .<br /><br /></p>
 <p><strong>IMPORTANT:</strong> When saving a preset, make sure you have the Simple Presets feature set to ON. This will save a preset that has a reference to the preset you loaded, along with any parameter changes you made. This is what will keep your presets loading correctly when the shader is updated in the future.</p>
 
 <p><strong>Have a good time!</strong></p>
