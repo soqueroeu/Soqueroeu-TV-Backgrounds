@@ -26,7 +26,7 @@ SOME SCREENSHOTS:
 <p><strong>2</strong> - You need to have Slang shaders previously installed in your Retroarch. Download them from Retroarch's update menu.</p>
 <p><strong>NOTE:</strong> You will only be able to see the Slang shaders in the Retroarch download list if you have video drivers set to Vulkan. It may be necessary to save the changes and restart your Retroarch. <br /><br /></p>
 <p><strong>3</strong> - You will need Shader Mega Bezel pack. Find the links on the author's page at Libretro forum:<br /><a href="https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1">https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1</a></p>
-<p>If you prefer, you can follow this direct download link:<br /><a href="https://1drv.ms/u/s!AlJgyN_LYasyoIxcS8s6B2gH947dQg?e=1M2dzs">https://1drv.ms/u/s!AlJgyN_LYasyoIxcS8s6B2gH947dQg?e=1M2dzs</a> <br /><br /></p>
+
 <p><strong>4</strong> - If you have previous versions of Mega Bezel installed, you need to delete the old shader pack. Do not overwrite files, this can cause crashes.<br /><br /></p>
 <p><strong>5</strong> - After downloading Mega Bezel pack, see inside the .zip there is a folder called bezel. Copy this folder into the following directory:<br /><br /><em>Retroarch/shaders/shaders_slang.</em><br /><br /></p>
 <p><strong>6</strong> &ndash; After downloading the TV Backgrounds pack, inside the .zip you will see a folder called Soqueroeu. Unzip this folder to:<br /><em>Retroarch/shaders/ <br /><br /></em></p>
