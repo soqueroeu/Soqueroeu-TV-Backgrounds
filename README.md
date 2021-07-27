@@ -1,15 +1,31 @@
 # Soqueroeu TV Backgrounds
-<h3><strong><br />Backgrounds for Mega Bezel Shader on Retroarch<br />---------------------------------------------------------------------</strong></h3>
-<p><strong><br />WHAT IS?<br /></strong>These are backgrounds to be used with Retroarch. They look like conventional screen overlay, but will be loaded automatically along with Mega Bezel shaders.<br /><br /><strong>WHAT FOR?<br /></strong>These backgrounds were created to be used exclusively with the MegaBezel shaders authored by HyperSpaceMadness. They will not work like regular Retroarch overlay as they do not have a transparent area for tube image. <br />Without Mega Bezel Shaders they will not work as expected.<br /><br /><br /><strong>W</strong><strong>HY?<br /></strong>I wanted backgrounds that could be used with Retroarch while playing near big screens. So I was inspired by another authors works and I started working on my own backgrounds.<br /><br />These backgrounds feature simple TV images created in Photoshop. <br />They intend to use less space for the image tube, bringing more comfort for who play close to the big screens.<br /><br />I don't have great skills with graphical tools so you can find several points to improve in my work. I tried to differentiate the colors and shapes so they wouldn't be so repetitive. I hope it's useful to you.<br /><br />-------------------<br /><br /></p>
+<h2>What is SOQUEREU - Mega Bezel TV Backgrounds?</h2>
+<p>My TV backgrounds are meant to be used with Retroarch. They are not conventional screen overlays: included presets automatically load configurations for Mega Bezel Reflection shader to obtain maximum retro-feeling. In fact, they are designed to work as an addon to the shader and cannot be used standalone like standard overlays as they don&rsquo;t have any trasparent region for tube.</p>
+<h2>Why?</h2>
+<p>My idea is to develop special backgrounds to be used while playing close to big screens. Taking inspiration from other designers projects, I started creating my own backgrounds in Photoshop featuring simple TV images. They are intended to as little space for the image tube as possible, bringing comfort for those who play close to big screens.</p>
+<p>Users may find several spots to improve my work, after all I&rsquo;m still tranining my skill with graphical tools! Btw, I tried to develop a wide variation of colors and shapes, so they wouldn&rsquo;t result repetitive. I hope people will enjoy playing games and customizing their experience with my assets.</p>
+<h2>What is Mega Bezel Reflection Shader?</h2>
+<p>This is a collection of special shaders with lots of customization possibilities, as well as beautiful real-time tube reflections! They were developed by <a href="https://forums.libretro.com/u/hyperspacemadness/summary">HyperSpaceMadness</a>, with feedback from many people who like old games. In my opinion, this is one of the biggest contributions to the retrogaming emulation scene.</p>
+<h2>Requirements</h2>
+<ul>
+<li>Retroarch 1.9.1 or later with simple presets enabled</li>
+<li>Slang shaders previously installed in your Retroarch (download from Retroarch&rsquo;s update menu).</li>
+<li>Shader Mega Bezel pack V 0.9.019 (2021-06-23) or later</li>
+</ul>
+<h2>Features</h2>
+<ul>
+<li>All backgrouns 16:9 @ 3840x2160 (4K) png format</li>
+<li>Independent, zero-config presets for night and day experience</li>
+<li>No need for additional advanced preset adjustments</li>
+</ul>
 
-SOME SCREENSHOTS:
+Some Scrennshots:
 
 ![](/Screenshots/FDS_Akumajou_Dracula.png?raw=true)
 ![](/Screenshots/SNES_Super_MarioWorld.png?raw=true)
 ![](/Screenshots/SegaGenesis_Castlevania.png?raw=true)
 
-<p><strong>WHAT ARE MEGA BEZEL SHADERS?</strong><br />They are shaders with great customization possibilities, besides having their glorious real time reflections lights.<br />They were developed by HyperSpaceMadness, with feedback from people who like old games.</p>
-<p>By using these backgrounds and their presets, you will automatically enjoy the beautiful reflections. <span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pt" data-phrase-index="0">I also created night presets, so you can play with the lights off.</span></span>&nbsp;</p>
+
 <p>To learn more about Mega Bezel Shader, please visit HSM's Forum Libretro page:<br /><a href="https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1" rel="nofollow">https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1</a> .</p
 
   ---------------
