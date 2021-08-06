@@ -51,5 +51,6 @@ Some Scrennshots:
 <p><br />or</p>
 <p><br />Retroarch/shaders/ Soqueroeu-TV-Backgrounds /presets/TV-Console-Night</p>
 <p><br /><strong>Note</strong>: A shader preset can take between 5 and 10 seconds to load. Wait and trust!</p>
+10 - If any background appears upside down, access the shader parameters and modify the Flip Viewport Vertical option, in the [FLIP & ROTATE] section. 
 <p><br />11 &ndash; If you want to change shader parameters, you should know that MegaBezel offers several customization options. Once you have desired result, you can save preset to Core (active core), content directory or whole system. I recommend you save by applying to platform/console folder contents, as each system operates with different display resolutions and a customization may present unwanted results for some other core.</p>
 <p><br /><strong>IMPORTANT</strong>: When saving a preset, make sure you have the Simple Presets feature set to ON. This will save a preset that has a reference to the preset you loaded, along with any parameter changes you made. This is what will keep your presets loading correctly when the shader is updated in the future.<br />Have a good time!</p>
