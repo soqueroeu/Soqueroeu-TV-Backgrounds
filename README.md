@@ -31,6 +31,7 @@ Some Scrennshots:
   ---------------
 <h3><strong>How to use these backgrounds? </strong></h3>
 <p>This guide assumes that you already use Mega Bezel shaders. If you haven't used these special shaders yet, look for additional information further down in this document for first-time instructions. These backgrouns are in 16:9 @ 3840x2160 format. Presets will always use the Standard version of Mega Bezel. Please note, there are no presets with Advanced parameter in this package.</p>
+Note: Shader presets are using relative path. You can then unzip this pack to any folder from the Retroach root folder if you wish. 
 <p><br />1 - Inside the downloaded .zip you will see a folder called Soqueroeu-TV-Backgrounds. Unzip this folder to:</p>
 <p>Retroarch / shaders /</p>
 <p><br />2 - When a game is running, load a shader preset. Find presets at:</p>
