@@ -8,9 +8,9 @@
 <p>This is a collection of special shaders with lots of customization possibilities, as well as beautiful real-time tube reflections! They were developed by <a href="https://forums.libretro.com/u/hyperspacemadness/summary">HyperSpaceMadness</a>, with feedback from many people who like old games. In my opinion, this is one of the biggest contributions to the retrogaming emulation scene.</p>
 <h2>Requirements</h2>
 <ul>
-<li>Retroarch 1.9.1 or later with simple presets enabled</li>
+<li>Retroarch 1.9.8 or later with simple presets enabled</li>
 <li>Slang shaders previously installed in your Retroarch (download from Retroarch&rsquo;s update menu).</li>
-<li>Shader Mega Bezel pack V 0.9.019 (2021-06-23) or later</li>
+<li>Shader Mega Bezel pack V 0.9.097 (2022-01-05 Rev 2) or later</li>
 </ul>
 <h2>Features</h2>
 <ul>
