@@ -42,7 +42,7 @@ Shader presets use relative path. You can then unzip this pack to any folder fro
 
 <p>2 - When a game is running, load a shader preset. Find presets in one of these directories:
 
-*Retroarch/shaders/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console* </p>
+*Retroarch/shaders/Soqueroeu-TV-Backgrounds/presets/TV-Console* </p>
 *Retroarch/shaders/Soqueroeu-TV-Backgrounds/presets/TV-Console-Night*</p>
 
 -----------------------------------
@@ -67,8 +67,8 @@ Shader presets use relative path. You can then unzip this pack to any folder fro
 **8** - Still in Retroach, go to Settings&gt;Video&gt;Scale. Set integer value scale to OFF Set the screen aspect ratio to match your monitor, for example 16: 9.</p>
 
 **9** - With a game running, load a shader preset. Find presets in one of these directories:</p>
-*/Retroarch/shaders/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console*</p>
-*/Retroarch/shaders/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console-Nigh*t</p>
+*/Retroarch/shaders/Soqueroeu-TV-Backgrounds/presets/TV-Console*</p>
+*/Retroarch/shaders/Soqueroeu-TV-Backgrounds/presets/TV-Console-Nigh*t</p>
 
 <p><strong>Note</strong>: A shader preset can take between 5 and 10 seconds to load. On first use, small stutters may occur when navigating through the parameter menus. The loading time can also be a little longer. This happens because the shader is caching the changes. Wait and trust!</p>
 
